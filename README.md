@@ -11,3 +11,5 @@ Field Contributions:
     u'timestamp_timeOfDay': 0.0,
     u'timestamp_weekend': 0.0}
 
+
+Data in csv is duplicated x4 times.
